@@ -53,3 +53,15 @@ let text = Tweak.valueForCategory("Main View", collectionName: "Text", name: "Te
 label.text = text
 
 ```
+
+The author
+----------
+
+Dominik Hauser
+
+Visit my [blog](http://dasdev.de) or follow me on [Twitter](http://twitter.com/dasdom) or [App.net](http://alpha.app.net/dasdom).
+
+Licence
+-------
+
+MIT Licence. See the LICENCE file for details.
